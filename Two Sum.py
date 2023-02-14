@@ -20,5 +20,3 @@ for n in range(0, length):
     num.append(element)
 another = twosum(num, number)
 print(another)
-
-"""New"""
